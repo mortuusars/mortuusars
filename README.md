@@ -2,7 +2,7 @@ Greetings. I'm Evhenii and I'm from Ukraine.
 
 You can find my
 
-- MC mods at [CurseForge](https://www.curseforge.com/members/mortuus_art/projects)
+- MC mods at [CurseForge](https://www.curseforge.com/members/mortuus_art/projects) and [Modrinth](https://modrinth.com/user/mortuusars)
 - apps on github: [PSQuickAssets](https://github.com/mortuusars/PSQuickAssets), [PSTimeTracker](https://github.com/mortuusars/PSTimeTracker)
 - photos at [Unsplash](https://unsplash.com/@mortuus)
 - art at [ArtStation](https://www.artstation.com/mortuus)
